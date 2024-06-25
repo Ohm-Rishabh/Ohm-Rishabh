@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ohm-Rishabh
-- I’m interested in Computer Engineering. 
-- I’m looking for projects on memory system, processor design, edge computing/devices and/or hardware for IoT and AI applications
-- How to reach me ohmrishabh@gmail.com
+- I’m interested in Computer Engineering, Systems and AI 
+- I’m looking for projects on Systems design with a focus on hardware/software co-design or systems development for AI/ML or development of AI systems
+- How to reach me ohmrishabh@gmail.com or https://www.linkedin.com/in/ohm-rishabh-86a1291a0/
 
 <!---
 Ohm-Rishabh/Ohm-Rishabh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
